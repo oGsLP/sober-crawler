@@ -2,3 +2,5 @@ node_modules
 coverage
 .idea
 crawlDB
+test.js
+/preset/

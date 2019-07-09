@@ -6,7 +6,8 @@
   },
   "rules": {
     "prettier/prettier": "error",
-    "camelcase": "off"
+    "camelcase": "off",
+    "capitalized-comments": "off"
   },
   "plugins": ["prettier"]
 }
