@@ -16,7 +16,8 @@
   "author": "oGsLP",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.2"
+    "chalk": "^2.4.2",
+    "selenium-webdriver": "^4.0.0-alpha.4"
   },
   "devDependencies": {
     "coveralls": "^3.0.4",
